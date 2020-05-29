@@ -1,3 +1,3 @@
 # RRT-algorithm
 Project for an algorithm course (VAI),
-last updated 29.05.2020
+Last updated 29.05.2020
